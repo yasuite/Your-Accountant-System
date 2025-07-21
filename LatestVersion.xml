@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UpdateInfo>
+    <Primary_Download_URL>http://example.com/downloads/app-32bit.exe</Primary_Download_URL>
+    <Secondary_Download_URL>http://example.com/downloads/app-64bit.exe</Secondary_Download_URL>
+    <Program_Version>1.2</Program_Version>
+</UpdateInfo>
