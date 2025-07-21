@@ -157,7 +157,7 @@ Upgrade anytime for advanced features (after 30-day trial).
 
 ## Full Manual
 
-For full setup instructions, screen configurations, and transaction types, refer to the official [User Manual PDF](https://yasuite.github.io/Your-Accountant-System/manual.pdf) *(or attach the file in your repo if hosted locally).*
+For full setup instructions, screen configurations, and transaction types, refer to the official [User Manual PDF](https://yasuite.github.io/Your-Accountant-System/Your-Accountant-System-Manual.pdf) *(or attach the file in your repo if hosted locally).*
 
 ---
 
