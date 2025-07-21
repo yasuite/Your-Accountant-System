@@ -1,0 +1,45 @@
+End-User License Agreement (EULA)
+----------------------------------------
+This End-User License Agreement (the "Agreement") is a legal agreement between Ramy Kamil Abd El-Masih (the "Licensor") and you (the "Licensee") governing the use of the software (the "Software"). By installing, copying, or using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not install, copy, or use the Software.
+
+License Grant
+---------------
+Subject to the terms of this Agreement, the Licensor grants the Licensee a limited, non-exclusive, non-transferable license to use the Software in accordance with its intended purpose.
+
+ - The Software is provided with full functionality for free, except for certain features related to settings and permissions. These advanced features are available for a 30-day trial period. After the trial ends, the Licensee may continue using the basic features at no cost or choose to upgrade at any time to restore full access.
+
+ - Advanced features: Database Remote connect setup, Backup/Restore, Users Manager, Permisions Manager, Register New users, Users Chat, Setup wizerd, Operation Manager, Screen Controller, Export/Send Reports, Dark mode and Default number of rows in each load.
+
+ - In any printed transaction with the free vresion; the name of the software would be shown.
+
+Restrictions
+-------------
+The Licensee is prohibited from copying, distributing, modifying, reverse engineering, or selling the Software without the express written consent of the Licensor.
+
+Ownership
+-----------
+The Licensor retains all intellectual property rights in the Software, including but not limited to copyrights, trademarks, and trade secrets. The Licensee agrees not to remove any copyright, trademark, or other proprietary notices from the Software.
+
+Disclaimer of Warranties
+---------------------------
+The Software is provided "as is" without warranty of any kind, express or implied, including but not limited to warranties of merchantability and fitness for a particular purpose. The Licensor does not warrant that the Software will meet the Licensee's requirements or that its operation will be uninterrupted or error-free.
+
+Limitation of Liability
+------------------------
+The Licensor shall not be liable for any damages arising out of or in connection with the use of the Software, including but not limited to direct, indirect, incidental, special, or consequential damages.
+
+Indemnification
+-----------------
+The Licensee agrees to indemnify and hold the Licensor harmless from any claims, damages, or expenses arising from the Licensee's use of the Software.
+
+Entire Agreement
+-------------------
+This Agreement constitutes the entire agreement between the Licensor and the Licensee and supersedes all prior agreements or understandings, whether written or oral.
+
+Severability
+-------------
+If any provision of this Agreement is found to be invalid or unenforceable, the remaining provisions of this Agreement shall remain in full force and effect.
+
+Finally
+-------
+By installing, copying, or using the Software, the Licensee acknowledges that they have read this Agreement, understand it, and agree to be bound by its terms and conditions. If the Licensee does not agree to the terms of this Agreement, they must immediately cease all use of the Software and destroy all copies in their possession.
