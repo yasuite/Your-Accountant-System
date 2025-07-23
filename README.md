@@ -5,6 +5,17 @@
 Your Accountant System is a comprehensive, user-friendly accounting software designed to simplify financial transactions, reporting, and operational tracking for businesses of all sizes. The system offers robust features for administrators, managers, and regular users — with seamless navigation, multi-user support, and built-in automation.
 
 ---
+## Your Data Stays Safe – And It Stays Yours
+Your Accountant System (YAS) is built with your privacy in mind. All your financial data is stored locally on your own computer or your private server — not on the internet or any third-party cloud.
+
+This means:
+You are always in full control of your data
+No one else can access your financial records unless you allow it
+No internet required to use basic features
+Want to use YAS on multiple computers? No problem! You can connect your systems using your own local network or server — making it easy to work from different PCs securely.
+You get both security and flexibility — without needing to be a tech expert.
+
+---
 
 ## Key Features
 
