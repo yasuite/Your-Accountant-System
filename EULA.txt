@@ -1,0 +1,70 @@
+End-User License Agreement (EULA)
+----------------------------------------
+
+This End-User License Agreement ("Agreement") is a legal agreement between Ramy Kamil Abd El-Masih ("Licensor") and you ("Licensee") regarding the use of this software ("Software").
+
+By installing, copying, or using the Software, you agree to the terms of this Agreement. If you do not agree, please do not install or use the Software.
+
+License
+-------
+
+The Software is provided free of charge, with full basic functionality. Certain advanced features are included in a 30-day free trial. After the trial ends, you may:
+- Continue using the basic features for free, or
+- Choose to upgrade to unlock all advanced features again.
+
+Advanced Features (Trial Only or With Upgrade)
+----------------------------------------------
+
+These include (but are not limited to):
+- Remote database connection
+- Create new databases
+- Backup and restore
+- User management and permissions
+- User registration and chat
+- Operation manager
+- Screen controller
+- Export/send reports
+- Dark mode
+- Set default rows per load
+
+Note: In the free version, all printed transactions will show the name of the Software.
+
+Restrictions
+------------
+
+You may not copy, distribute, modify, reverse-engineer, or sell the Software without the written permission of the Licensor.
+
+Ownership
+---------
+
+The Software is owned by the Licensor. All copyrights, trademarks, and intellectual property rights remain with the Licensor. You must not remove or alter any legal notices from the Software.
+
+Disclaimer
+----------
+
+The Software is provided "as is", with no warranties of any kind. The Licensor does not guarantee that the Software will be error-free or meet your needs.
+
+Liability
+---------
+
+The Licensor is not responsible for any damages or data loss resulting from the use of the Software.
+
+Indemnity
+---------
+
+You agree to protect and hold harmless the Licensor from any claims related to your use of the Software.
+
+Entire Agreement
+----------------
+
+This Agreement is the complete agreement between you and the Licensor regarding the Software.
+
+Severability
+------------
+
+If any part of this Agreement is found invalid, the rest will still apply.
+
+Final Note
+----------
+
+By using this Software, you confirm that you understand and accept this Agreement. If not, you must uninstall and stop using the Software.

@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <UpdateInfo>
-    <Primary_Download_URL>http://example.com/downloads/app-32bit.exe</Primary_Download_URL>
-    <Secondary_Download_URL>http://example.com/downloads/app-64bit.exe</Secondary_Download_URL>
-    <Program_Version>1.2</Program_Version>
+    <Primary_Download_URL>https://github.com/yasuite/Your-Accountant-System/releases/download/V3.0/Your-Accountant-System_Setup.x32.zip</Primary_Download_URL>
+    <Secondary_Download_URL>https://github.com/yasuite/Your-Accountant-System/releases/download/V3.0/Your-Accountant-System_Setup.x64.zip</Secondary_Download_URL>
+    <Program_Version>3.0</Program_Version>
 </UpdateInfo>
