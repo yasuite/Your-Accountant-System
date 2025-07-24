@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+  </MASTER_PAD_VERSION_INFO>
+
+  <Program_Info>
+    <Program_Name>Your Accountant System (YAS)</Program_Name>
+    <Program_Version>3.0</Program_Version>
+    <Program_Release_Month>07</Program_Release_Month>
+    <Program_Release_Day>24</Program_Release_Day>
+    <Program_Release_Year>2025</Program_Release_Year>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>Stable</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+  </Program_Info>
+
+  <Program_Descriptions>
+    <English>
+      <Char_Desc_45>Free accounting software for Windows PCs</Char_Desc_45>
+      <Char_Desc_80>Powerful, secure accounting with full control over your data</Char_Desc_80>
+      <Char_Desc_250>Modern accounting software for Windows with invoices, journal entries, user roles, and built-in reports. Your data is stored safely on your own system — no third-party servers involved.</Char_Desc_250>
+      <Char_Desc_450>Your Accountant System (YAS) is a secure, user-friendly accounting solution for Windows. It features multi-user access, customizable transactions, financial reporting, and full data control. All financial records are stored on your own computer or server. Ideal for businesses that value privacy and independence.</Char_Desc_450>
+    </English>
+  </Program_Descriptions>
+
+  <Program_Links>
+    <Application_URL>https://yasuite.github.io/Your-Accountant-System/</Application_URL>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/yasuite/Your-Accountant-System/releases/download/V3.0/Your-Accountant-System_Setup.x64.zip</Primary_Download_URL>
+    </Download_URLs>
+    <PAD_File_URL>https://yasuite.github.io/yas-pad.xml</PAD_File_URL>
+  </Program_Links>
+
+  <Company_Info>
+    <Company_Name>YASuite</Company_Name>
+    <Country>Egypt</Country>
+    <Company_WebSite_URL>https://yasuite.github.io/Your-Accountant-System/</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Ramy</Author_First_Name>
+      <Author_Last_Name>Kamil Abd El-Masih</Author_Last_Name>
+      <Author_Email>gb.ramy.kamil@gmail.com</Author_Email>
+    </Contact_Info>
+  </Company_Info>
+
+  <Program_System_Requirements>
+    <OS_Support_Windows>Windows 7, 8, 10, 11 (32/64-bit)</OS_Support_Windows>
+    <Minimum_CPU>1 GHz</Minimum_CPU>
+    <Minimum_RAM>1 GB</Minimum_RAM>
+    <Minimum_Hard_Disk_Space>700 MB</Minimum_Hard_Disk_Space>
+  </Program_System_Requirements>
+</XML_DIZ_INFO>
