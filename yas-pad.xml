@@ -13,13 +13,19 @@
     <Program_Type>Freeware</Program_Type>
     <Program_Release_Status>Stable</Program_Release_Status>
     <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Categories>
+      <Primary_Category>Business::Accounting & Finance</Primary_Category>
+    </Program_Categories>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Keywords>accounting, bookkeeping, invoice, reports, transactions, journal, finance, business, cash flow, inventory</Keywords>
   </Program_Info>
 
   <Program_Descriptions>
     <English>
       <Char_Desc_45>Free accounting software for Windows PCs</Char_Desc_45>
       <Char_Desc_80>Powerful, secure accounting with full control over your data</Char_Desc_80>
-      <Char_Desc_250>Modern accounting software for Windows with invoices, journal entries, user roles, and built-in reports. Your data is stored safely on your own system — no third-party servers involved.</Char_Desc_250>
+      <Char_Desc_250>YAS makes accounting simple. Track every financial transaction — income, expenses, payments, and reports — with precision. Your data stays private on your own system. Multi-user ready. Works across PCs. No tech skills needed. Free forever.</Char_Desc_250>
       <Char_Desc_450>Your Accountant System (YAS) is a secure, user-friendly accounting solution for Windows. It features multi-user access, customizable transactions, financial reporting, and full data control. All financial records are stored on your own computer or server. Ideal for businesses that value privacy and independence.</Char_Desc_450>
     </English>
   </Program_Descriptions>
@@ -30,6 +36,7 @@
       <Primary_Download_URL>https://github.com/yasuite/Your-Accountant-System/releases/download/V3.0/Your-Accountant-System_Setup.x64.zip</Primary_Download_URL>
     </Download_URLs>
     <PAD_File_URL>https://yasuite.github.io/yas-pad.xml</PAD_File_URL>
+    <Program_Screenshot_URL>https://yasuite.github.io/assets/img/Screenshots/trans.png</Program_Screenshot_URL>
   </Program_Links>
 
   <Company_Info>
@@ -49,4 +56,10 @@
     <Minimum_RAM>1 GB</Minimum_RAM>
     <Minimum_Hard_Disk_Space>700 MB</Minimum_Hard_Disk_Space>
   </Program_System_Requirements>
+
+  <Program_File_Info>
+    <File_Size_Bytes>155189248</File_Size_Bytes>
+    <File_Size_K>151552</File_Size_K>
+    <File_Size_MB>148.0</File_Size_MB>
+  </Program_File_Info>
 </XML_DIZ_INFO>
